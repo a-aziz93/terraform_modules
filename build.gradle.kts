@@ -12,7 +12,7 @@ version = "1.0.0"
 
 sonarqube {
     properties {
-        property ("sonar.projectKey", "a-aziz93_terraform_modules")
+        property ("sonar.projectKey", "a-aziz93_terraform-modules")
         property ("sonar.organization", "a-aziz93")
         property ("sonar.host.url", "https://sonarcloud.io")
     }
