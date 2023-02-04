@@ -1,3 +1,3 @@
 
-rootProject.name = "terraform-modules"
+rootProject.name = "terraform_modules"
 
